@@ -7,7 +7,7 @@ links:
   - label: '`r fontawesome::fa("github-square", fill = "#63D4FD")` GitHub'
     url: "https://github.com/WendyEspinozaCamejo"
   - label: '`r fontawesome::fa("envelope", fill = "#63D4FD")` Email'
-    url: "mailto:wcamejo1@jhmi.edu"
+    url: "mailto:wendy.camejo@gmail.com"
 output:
   postcards::solana
 ---
@@ -20,7 +20,7 @@ library(fontawesome)
 Hello everyone, my name is Wendy. I am a PhD - candidate in the Human Genetics and Genomics  program at the Johns Hopkins University School of Medicine.
 My thesis focuses on understanding the underlying mechanism of aneurysm development in Autosomal Recessive Cutis Laxa type 1B syndrome, a tissue connective disorder affecting young children. 
 My research interests include vascular biology, cardiovascular disease, tissue connective disorder, Mendelian disease, and prenatal development. 
-I am originally from the Dominican Republic 🇩🇴 and moved to Maryland during my last year of high school. During this transition, I discovered my passion for science and decided to study Biology at Morgan State University. 
+I am originally from the Dominican Republic 🇩🇴 and moved to Maryland during my last year of high school. During this transition, I discovered my passion for science 🧬 and decided to study Biology at Morgan State University. 
 I am familiar with R and, to a lesser extent, Python. I acquired some data analysis experience by analyzing scRNA-seq and bulk RNA-seq data. I took Statistics for Laboratory Scientists.
 I hope to learn more about R, familiarize myself with Git and GitHub, and learn how to use these tools for collaboration and data organization.
 
